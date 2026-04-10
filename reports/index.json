@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260409-201248-cjll",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-04-10T02:12:48.000Z",
+      "dateEnd": "2026-04-10T03:01:35.000Z",
+      "dateLabel": "4/9/2026, 8:12:48 PM - 4/9/2026, 9:01:35 PM",
+      "url": "https://Amprothor.github.io/logs/?report=20260409-201248-cjll",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260407-193439-1bmd",
       "title": "Get On Me",
       "commanders": [
