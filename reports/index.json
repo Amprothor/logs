@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260414-192630-1fbo",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-04-15T01:26:30.000Z",
+      "dateEnd": "2026-04-15T02:22:04.000Z",
+      "dateLabel": "4/14/2026, 7:26:30 PM - 4/14/2026, 8:22:04 PM",
+      "url": "https://Amprothor.github.io/logs/?report=20260414-192630-1fbo",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260413-190813-5156",
       "title": "Get On Me",
       "commanders": [
