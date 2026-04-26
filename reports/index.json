@@ -3,6 +3,30 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260425-185713-hlgd",
+      "title": "Ebt Baby, Get On Me",
+      "commanders": [
+        "Ebt Baby",
+        "Get On Me"
+      ],
+      "dateStart": "2026-04-26T00:57:13.000Z",
+      "dateEnd": "2026-04-26T02:13:28.000Z",
+      "dateLabel": "4/25/2026, 6:57:13 PM - 4/25/2026, 8:13:28 PM",
+      "url": "https://Amprothor.github.io/logs/?report=20260425-185713-hlgd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 54
+      }
+    },
+    {
       "id": "20260424-200911-rr56",
       "title": "Gear Check For Bads",
       "commanders": [
