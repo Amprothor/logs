@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260427-194204-2yy6",
+      "title": "Ebt Baby",
+      "commanders": [
+        "Ebt Baby"
+      ],
+      "dateStart": "2026-04-28T01:42:04.000Z",
+      "dateEnd": "2026-04-28T03:03:41.000Z",
+      "dateLabel": "4/27/2026, 7:42:04 PM - 4/27/2026, 9:03:41 PM",
+      "url": "https://Amprothor.github.io/logs/?report=20260427-194204-2yy6",
+      "summary": {
+        "borderlandsPct": 0.15,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 54
+      }
+    },
+    {
       "id": "20260426-193934-d5ii",
       "title": "Gear Check For Bads",
       "commanders": [
