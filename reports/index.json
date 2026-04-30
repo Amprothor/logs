@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260429-194638-2dh8",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-04-30T01:46:38.000Z",
+      "dateEnd": "2026-04-30T02:36:05.000Z",
+      "dateLabel": "4/29/2026, 7:46:38 PM - 4/29/2026, 8:36:05 PM",
+      "url": "https://Amprothor.github.io/logs/?report=20260429-194638-2dh8",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260428-194303-uyey",
       "title": "Gear Check For Bads",
       "commanders": [
