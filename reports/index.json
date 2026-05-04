@@ -1,7 +1,31 @@
 {
   "colorPalette": "electric-blue",
   "glassSurfaces": false,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260503-184138-q5at",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
+      ],
+      "dateStart": "2026-05-04T00:41:38.000Z",
+      "dateEnd": "2026-05-04T01:32:13.000Z",
+      "dateLabel": "5/3/2026, 6:41:38 PM - 5/3/2026, 7:32:13 PM",
+      "url": "https://Amprothor.github.io/logs/?report=20260503-184138-q5at",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 52
+      }
+    },
     {
       "id": "20260429-194638-2dh8",
       "title": "Get On Me",
