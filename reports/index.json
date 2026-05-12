@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260511-193504-hthc",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-05-12T01:35:04.000Z",
+      "dateEnd": "2026-05-12T02:18:53.000Z",
+      "dateLabel": "5/11/2026, 7:35:04 PM - 5/11/2026, 8:18:53 PM",
+      "url": "https://Amprothor.github.io/logs/?report=20260511-193504-hthc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 21,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260510-193506-q7ix",
       "title": "Get On Me",
       "commanders": [
