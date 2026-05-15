@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260514-201336-vj1h",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
+      ],
+      "dateStart": "2026-05-15T02:13:36.000Z",
+      "dateEnd": "2026-05-15T03:02:11.000Z",
+      "dateLabel": "5/14/2026, 8:13:36 PM - 5/14/2026, 9:02:11 PM",
+      "url": "https://Amprothor.github.io/logs/?report=20260514-201336-vj1h",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260512-194936-f4gg",
       "title": "Gear Check For Bads",
       "commanders": [
