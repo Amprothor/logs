@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260519-204752-3sxl",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
+      ],
+      "dateStart": "2026-05-20T02:47:52.000Z",
+      "dateEnd": "2026-05-20T03:12:07.000Z",
+      "dateLabel": "5/19/2026, 8:47:52 PM - 5/19/2026, 9:12:07 PM",
+      "url": "https://Amprothor.github.io/logs/?report=20260519-204752-3sxl",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 7,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260519-204752-6kpw",
       "title": "Gear Check For Bads",
       "commanders": [
