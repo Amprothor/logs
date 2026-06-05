@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260604-191925-mv7b",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
+      ],
+      "dateStart": "2026-06-05T01:19:25.000Z",
+      "dateEnd": "2026-06-05T02:00:52.000Z",
+      "dateLabel": "6/4/2026, 7:19:25 PM - 6/4/2026, 8:00:52 PM",
+      "url": "https://Amprothor.github.io/logs/?report=20260604-191925-mv7b",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260601-190457-6wwe",
       "title": "Gear Check For Bads",
       "commanders": [
