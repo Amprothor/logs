@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260609-201521-b32a",
+      "title": "The Big Thing Is",
+      "commanders": [
+        "The Big Thing Is"
+      ],
+      "dateStart": "2026-06-10T02:15:21.000Z",
+      "dateEnd": "2026-06-10T02:54:51.000Z",
+      "dateLabel": "6/9/2026, 8:15:21 PM - 6/9/2026, 8:54:51 PM",
+      "url": "https://Amprothor.github.io/logs/?report=20260609-201521-b32a",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 19,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260604-201858-00ft",
       "title": "Gear Check For Bads",
       "commanders": [
