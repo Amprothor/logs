@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260615-191335-mpy3",
+      "title": "Çondó",
+      "commanders": [
+        "Çondó"
+      ],
+      "dateStart": "2026-06-16T01:13:35.000Z",
+      "dateEnd": "2026-06-16T02:16:53.000Z",
+      "dateLabel": "6/15/2026, 7:13:35 PM - 6/15/2026, 8:16:53 PM",
+      "url": "https://Amprothor.github.io/logs/?report=20260615-191335-mpy3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 62
+      }
+    },
+    {
       "id": "20260611-191808-peeo",
       "title": "The Big Thing Is",
       "commanders": [
