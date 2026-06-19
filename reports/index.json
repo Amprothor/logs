@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260618-172009-kg1m",
+      "title": "Ai Katsu, The Big Thing Is",
+      "commanders": [
+        "Ai Katsu",
+        "The Big Thing Is"
+      ],
+      "dateStart": "2026-06-18T23:20:09.000Z",
+      "dateEnd": "2026-06-19T01:48:15.000Z",
+      "dateLabel": "6/18/2026, 5:20:09 PM - 6/18/2026, 7:48:15 PM",
+      "url": "https://Amprothor.github.io/logs/?report=20260618-172009-kg1m",
+      "summary": {
+        "borderlandsPct": 0.9166666666666666,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260616-201411-xba0",
       "title": "The Big Thing Is",
       "commanders": [
