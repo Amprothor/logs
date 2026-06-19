@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260618-201217-02yo",
+      "title": "The Big Thing Is",
+      "commanders": [
+        "The Big Thing Is"
+      ],
+      "dateStart": "2026-06-19T02:12:17.000Z",
+      "dateEnd": "2026-06-19T02:47:52.000Z",
+      "dateLabel": "6/18/2026, 8:12:17 PM - 6/18/2026, 8:47:52 PM",
+      "url": "https://Amprothor.github.io/logs/?report=20260618-201217-02yo",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 10,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260618-172009-kg1m",
       "title": "Ai Katsu, The Big Thing Is",
       "commanders": [
