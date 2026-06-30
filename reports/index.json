@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260629-202135-usse",
+      "title": "Çondó",
+      "commanders": [
+        "Çondó"
+      ],
+      "dateStart": "2026-06-30T02:21:35.000Z",
+      "dateEnd": "2026-06-30T03:01:28.000Z",
+      "dateLabel": "6/29/2026, 8:21:35 PM - 6/29/2026, 9:01:28 PM",
+      "url": "https://Amprothor.github.io/logs/?report=20260629-202135-usse",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 23,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260625-194053-xl0v",
       "title": "The Big Thing Is",
       "commanders": [
