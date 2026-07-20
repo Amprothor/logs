@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260719-190542-arnn",
+      "title": "The Big Thing Is",
+      "commanders": [
+        "The Big Thing Is"
+      ],
+      "dateStart": "2026-07-20T01:05:42.000Z",
+      "dateEnd": "2026-07-20T01:59:09.000Z",
+      "dateLabel": "7/19/2026, 7:05:42 PM - 7/19/2026, 7:59:09 PM",
+      "url": "https://Amprothor.github.io/logs/?report=20260719-190542-arnn",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260716-190132-rvjp",
       "title": "The Big Thing Is",
       "commanders": [
