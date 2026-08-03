@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260802-190545-v73a",
+      "title": "The Big Thing Is",
+      "commanders": [
+        "The Big Thing Is"
+      ],
+      "guild": {
+        "id": "32DFFE13-EDDE-F011-BB1D-129A72F3745D",
+        "name": "Rèdúx",
+        "tag": "rdux"
+      },
+      "dateStart": "2026-08-03T01:05:45.000Z",
+      "dateEnd": "2026-08-03T01:28:37.000Z",
+      "dateLabel": "8/2/2026, 7:05:45 PM - 8/2/2026, 7:28:37 PM",
+      "url": "https://Amprothor.github.io/logs/?report=20260802-190545-v73a",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260730-190726-jiz0",
       "title": "The Big Thing Is",
       "commanders": [
