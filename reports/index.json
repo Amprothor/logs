@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260802-194711-gnqo",
+      "title": "The Big Thing Is",
+      "commanders": [
+        "The Big Thing Is"
+      ],
+      "guild": {
+        "id": "32DFFE13-EDDE-F011-BB1D-129A72F3745D",
+        "name": "Rèdúx",
+        "tag": "rdux"
+      },
+      "dateStart": "2026-08-03T01:47:11.000Z",
+      "dateEnd": "2026-08-03T01:59:07.000Z",
+      "dateLabel": "8/2/2026, 7:47:11 PM - 8/2/2026, 7:59:07 PM",
+      "url": "https://Amprothor.github.io/logs/?report=20260802-194711-gnqo",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 5,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260802-190545-a159",
       "title": "The Big Thing Is",
       "commanders": [
