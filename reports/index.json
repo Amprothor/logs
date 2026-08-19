@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260818-201230-pr49",
+      "title": "General Wagwan",
+      "commanders": [
+        "General Wagwan"
+      ],
+      "guild": {
+        "id": "32DFFE13-EDDE-F011-BB1D-129A72F3745D",
+        "name": "Rèdúx",
+        "tag": "rdux"
+      },
+      "dateStart": "2026-08-19T02:12:30.000Z",
+      "dateEnd": "2026-08-19T02:39:30.694Z",
+      "dateLabel": "8/18/2026, 8:12:30 PM - 8/18/2026, 8:39:30 PM",
+      "url": "https://Amprothor.github.io/logs/?report=20260818-201230-pr49",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 10,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260818-190819-f9tm",
       "title": "Çondó, The Big Thing Is",
       "commanders": [
