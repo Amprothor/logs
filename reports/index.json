@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260820-193648-ryq7",
+      "title": "Çondó",
+      "commanders": [
+        "Çondó"
+      ],
+      "guild": {
+        "id": "32DFFE13-EDDE-F011-BB1D-129A72F3745D",
+        "name": "Rèdúx",
+        "tag": "rdux"
+      },
+      "dateStart": "2026-08-21T01:36:48.000Z",
+      "dateEnd": "2026-08-21T02:31:11.088Z",
+      "dateLabel": "8/20/2026, 7:36:48 PM - 8/20/2026, 8:31:11 PM",
+      "url": "https://Amprothor.github.io/logs/?report=20260820-193648-ryq7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260818-201230-pr49",
       "title": "General Wagwan",
       "commanders": [
